@@ -23,6 +23,7 @@ const Pregunta = ({guardarPresupuesto, guardarRestante}) => {
         guardarPresupuesto(cantidad)
         guardarRestante(cantidad)
         // actualizarPregunta()
+        
 
     }
     return ( 
