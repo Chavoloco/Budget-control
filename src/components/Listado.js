@@ -1,7 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import Gasto from './Gasto';
-import CustomScroll from 'react-custom-scroll';
 
 const Listado = ({gastos}) => (
     <div>
